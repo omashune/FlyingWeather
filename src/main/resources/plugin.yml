@@ -1,0 +1,5 @@
+name: FlyingWeather
+version: '${project.version}'
+main: ru.omashune.flyingweather.FlyingWeather
+author: omashune
+website: https://github.com/omashune

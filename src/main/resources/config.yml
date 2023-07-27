@@ -1,0 +1,8 @@
+action-bar:
+  enabled: true
+  message: '&cПлохая погода для полётов, друг!'
+
+toggle-off-gliding:
+  on-join: false # если игрок вышел в полёте, то при перезаходе он упадёт
+  on-weather-change: false # если погода изменилась на rain/thunder, то все игроки в полете упадут
+  on-world-change: true # если игрок переместится в полёте в мир, в котором идёт дождь - он упадет
