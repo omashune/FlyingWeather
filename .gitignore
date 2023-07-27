@@ -1,2 +1,7 @@
-# Project exclude paths
-/target/
+# Maven
+target/
+
+# IntelliJ
+*.iml
+*.java___jb_tmp___
+.idea/
